@@ -1,4 +1,11 @@
 <div class="mx-auto">
+    <!-- WhatsApp Floating Button -->
+    <a href="https://wa.me/966573572205" target="_blank" class="fixed bottom-5 right-5 z-50">
+        <div class="w-[52px] h-[52px] bg-[#25D366] flex justify-center items-center rounded-full shadow-lg">
+            <i class='bx bxl-whatsapp text-[30px] text-white'></i>
+        </div>
+    </a>
+
     <div class="w-full lg:h-auto h-auto bg-primary">
         <div class="grid grid-cols-12 container mx-auto">
             <div class="md:col-span-8 lg:col-span-9 xl:col-span-10 col-span-12 mt-12">
@@ -21,7 +28,7 @@
                     </div>
                     <div class="flex items-center gap-2">
                         <i class='bx bx-phone text-[18px]'></i>
-                        <a href="tel:+966555637903" class="text-sm font-normal hover:underline">+966 55 563 7903</a>
+                        <a href="tel:+966573572205" class="text-sm font-normal hover:underline">+966 57 357 2205</a>
                     </div>
                 </div>
             </div>
