@@ -24,7 +24,7 @@
                 <div class="flex flex-wrap gap-6 text-white mt-5 mb-8">
                     <div class="flex items-start gap-2">
                         <i class='bx bx-map text-[18px] mt-0.5'></i>
-                        <p class="text-sm font-normal leading-relaxed">6868 حي الرحاب، رقم الوحدة: 001<br>صبيا 85457 2668</p>
+                        <p class="text-sm font-normal leading-relaxed">Abha - Jazan Hwy, الظبية<br>صبيا 85531, المملكة العربية السعودية</p>
                     </div>
                     <div class="flex items-center gap-2">
                         <i class='bx bx-phone text-[18px]'></i>
