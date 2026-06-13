@@ -125,5 +125,5 @@ return [
         'store' => env('APP_MAINTENANCE_STORE', 'database'),
     ],
 
-    'whatsapp_number' => env('WHATSAPP_NUMBER', '+9660542481218'),
+    'whatsapp_number' => env('WHATSAPP_NUMBER', '+966573572205'),
 ];
